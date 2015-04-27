@@ -1,4 +1,9 @@
 mong: A python powered mongodb client
 =====================================
 
-more here later…
+Planned features:
+ 
+ * Query management (history, favorites)
+ * Results in tree view
+ * Connection manager (incl. ssh tunnel)
+ * …
